@@ -1,4 +1,4 @@
-# Contributing to Rust Project Template
+# Contributing to AtCoder Rust
 Thanks for your help improving the project!.
 
 

@@ -2,23 +2,23 @@
 # https://doc.rust-lang.org/cargo/reference/manifest.html
 authors = ["Hiroshi Tsuyuki <kagemeka1@gmail.com>"]
 categories = [
-  "accessibility",
-  "config",
-  "development-tools",
-  "rust-patterns",
-]
+  "algorithms",
+  "api-bindings",
+  "asynchronous",
+  "command-line-utilities",
+] # https://crates.io/category_slugs
 description = "A template for Rust project"
-documentation = "https://docs.rs/project_template"
+documentation = "https://docs.rs/atcoder"
 edition = "2021"
-homepage = "https://github.com/kagemeka/rust_project_template#readme"
+homepage = "https://github.com/kagemeka/atcoder_rust#readme"
 keywords = ["rust", "template"]
 # license = "MIT"
 license-file = "LICENSE"
-name = "project-template"
+name = "atcoder"
 readme = "README.md"
-repository = "https://github.com/kagemeka/rust_project_template"
+repository = "https://github.com/kagemeka/atcoder_rust"
 rust-version = "1.58.1"
-version = "0.1.5"
+version = "0.1.0"
 # workspace = "."
 build = false # "scripts/build.rs"
 # links = "foo"
