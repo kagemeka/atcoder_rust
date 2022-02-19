@@ -4,7 +4,7 @@
 [![Github pages][gh-pages-badge]][gh-pages-url]
 [![MIT licensed][mit-badge]][mit-url] -->
 <!-- [![Build Status][actions-badge]][actions-url] -->
-<!-- 
+<!--
 [crates-badge]: https://img.shields.io/crates/v/project_template.svg
 [crates-url]: https://crates.io/crates/project_template
 [gh-pages-badge]: https://github.com/kagemeka/rust_project_template/actions/workflows/pages/pages-build-deployment/badge.svg
