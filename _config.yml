@@ -1,5 +1,5 @@
-title: Rust Project Template
-description: An template project for Rust.
+title: AtCoder Rust
+description: AtCoder API bindings for Rust.
 theme: jekyll-theme-slate
 # remote_theme: mmistakes/minimal-mistakes
 # https://github.com/topics/jekyll-theme
